@@ -1,0 +1,121 @@
+{
+  "title": "Tangariki Reete",
+  "pageID": 61244120,
+  "categories": [
+    "Living people",
+    "21st-century I-Kiribati women politicians",
+    "21st-century I-Kiribati politicians",
+    "Members of the House of Assembly (Kiribati)",
+    "Year of birth unknown",
+    "Speakers of the House of Assembly of Kiribati",
+    "Pillars of Truth politicians",
+    "Women government ministers of Kiribati",
+    "People from the Gilbert Islands",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tangariki Reete is an I-Kiribati politician, who was the member of Parliament for Betio.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kiribati"
+                },
+                {
+                  "type": "internal",
+                  "page": "Betio"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tangariki Reete"
+                ]
+              }
+            },
+            {
+              "text": "She entered the House of Assembly in 2008 after the death of her father.",
+              "links": [
+                {
+                  "text": "House of Assembly",
+                  "type": "internal",
+                  "page": "House of Assembly (Kiribati)"
+                }
+              ]
+            },
+            {
+              "text": "She is a member of the Pillars of Truth (Boutokaan te Koaua) party, and previously served as the first Minister for Women, Youth and Social Affairs from 2013 until 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pillars of Truth"
+                },
+                {
+                  "text": "Minister for Women, Youth and Social Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Women, Youth, Sports and Social Affairs"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Boutokaan te Koaua"
+                ]
+              }
+            },
+            {
+              "text": "On 22 May 2020 she was elected as the Speaker of the House of Assembly, beating the previous Speaker, 25 votes to 19.",
+              "links": [
+                {
+                  "text": "Speaker of the House of Assembly",
+                  "type": "internal",
+                  "page": "Speaker of the House of Assembly (Kiribati)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "May 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.parliament.gov.ki/members/current-members/",
+          "title": "Current Members",
+          "publisher": "Parliament of Kiribati",
+          "accessdate": "9 July 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.parliament.gov.ki/party-members/",
+          "title": "Party Members",
+          "publisher": "Parliament of Kiribati",
+          "accessdate": "9 July 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "kiribati-politician-stub"
+        }
+      ]
+    }
+  ]
+}
