@@ -7,17 +7,26 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      Name.new(
+        full: parts.first,
+        prefixes: ['H.E', 'Hon.']
+      ).short
     end
 
     def position
-      noko.css('.position').text.tidy
+      parts.last.gsub(/\s*\(.*/, '').split(/ and (?=Minister)/)
+    end
+
+    private
+
+    def parts
+      noko.text.split(',', 2).map(&:tidy)
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.tm-content ol li')
     end
   end
 end
