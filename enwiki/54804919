@@ -238,21 +238,6 @@
           "type": "book"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "kiribativice-presidents"
-        },
-        {
-          "template": "kiribati-politician-stub"
-        }
-      ]
     }
   ]
 }
