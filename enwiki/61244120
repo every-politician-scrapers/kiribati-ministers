@@ -21,15 +21,17 @@
         {
           "sentences": [
             {
-              "text": "Tangariki Reete is an I-Kiribati politician, who was the member of Parliament for Betio.",
+              "text": "Tangariki Reete is an I-Kiribati politician serving as the Speaker of the House of Assembly.",
               "links": [
                 {
+                  "text": "I-Kiribati",
                   "type": "internal",
                   "page": "Kiribati"
                 },
                 {
+                  "text": "Speaker of the House of Assembly",
                   "type": "internal",
-                  "page": "Betio"
+                  "page": "Speaker of the House of Assembly (Kiribati)"
                 }
               ],
               "formatting": {
@@ -39,67 +41,164 @@
               }
             },
             {
-              "text": "She entered the House of Assembly in 2008 after the death of her father.",
+              "text": "She served as a Member of the House of Assembly from 2008 until 2020, during which she also served as the first Minister for Women, Youth and Social Affairs from 2013 until 2016.",
               "links": [
                 {
                   "text": "House of Assembly",
                   "type": "internal",
                   "page": "House of Assembly (Kiribati)"
-                }
-              ]
-            },
-            {
-              "text": "She is a member of the Pillars of Truth (Boutokaan te Koaua) party, and previously served as the first Minister for Women, Youth and Social Affairs from 2013 until 2016.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pillars of Truth"
                 },
                 {
                   "text": "Minister for Women, Youth and Social Affairs",
                   "type": "internal",
                   "page": "Ministry of Women, Youth, Sports and Social Affairs"
                 }
-              ],
-              "formatting": {
-                "italic": [
-                  "Boutokaan te Koaua"
-                ]
-              }
+              ]
             },
             {
-              "text": "On 22 May 2020 she was elected as the Speaker of the House of Assembly, beating the previous Speaker, 25 votes to 19.",
-              "links": [
-                {
-                  "text": "Speaker of the House of Assembly",
-                  "type": "internal",
-                  "page": "Speaker of the House of Assembly (Kiribati)"
-                }
-              ]
+              "text": "She was elected as the Speaker on 22 May 2020, beating the previous Speaker, becoming the first female Speaker in Kiribati's history."
             }
           ]
         }
       ],
       "templates": [
         {
+          "description": "Speaker of the Kiribati House of Assembly",
+          "template": "short description"
+        },
+        {
           "date": "May 2021",
           "template": "use dmy dates"
         }
       ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tangariki Reete"
+          },
+          "office1": {
+            "text": "Speaker\nof the House of Assembly",
+            "links": [
+              {
+                "text": "Speaker",
+                "type": "internal",
+                "page": "Speaker of the House of Assembly (Kiribati)"
+              },
+              {
+                "text": "House of Assembly",
+                "type": "internal",
+                "page": "House of Assembly (Kiribati)"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Ioteba Redfern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ioteba Redfern"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "22 May 2020"
+          },
+          "predecessor1": {
+            "text": "Tebuai Uaai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tebuai Uaai"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Women, Youth, Sports and Social Affairs",
+            "links": [
+              {
+                "text": "Minister",
+                "type": "internal",
+                "page": "Cabinet of Kiribati"
+              },
+              {
+                "text": "Women, Youth, Sports and Social Affairs",
+                "type": "internal",
+                "page": "Ministry of Women, Youth, Sports and Social Affairs"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "15 October 2013"
+          },
+          "term_end2": {
+            "text": "11 March 2016"
+          },
+          "predecessor2": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "successor2": {
+            "text": "David Collins",
+            "links": [
+              {
+                "text": "David Collins",
+                "type": "internal",
+                "page": "David Collins (politician)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member\nof the House of Assembly from Betio",
+            "links": [
+              {
+                "text": "House of Assembly",
+                "type": "internal",
+                "page": "House of Assembly (Kiribati)"
+              },
+              {
+                "type": "internal",
+                "page": "Betio"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2008",
+            "number": 2008
+          },
+          "term_end3": {
+            "text": "21 April 2020"
+          },
+          "successor3": {
+            "text": "Tebao Awerika",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tebao Awerika"
+              }
+            ]
+          },
+          "party": {
+            "text": "Boutokaan Kiribati Moa Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boutokaan Kiribati Moa Party"
+              }
+            ]
+          }
+        }
+      ],
       "references": [
         {
-          "url": "https://www.parliament.gov.ki/members/current-members/",
-          "title": "Current Members",
-          "publisher": "Parliament of Kiribati",
-          "accessdate": "9 July 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.parliament.gov.ki/party-members/",
-          "title": "Party Members",
-          "publisher": "Parliament of Kiribati",
-          "accessdate": "9 July 2019",
+          "url": "https://www.rnz.co.nz/international/pacific-news/417262/kiribati-parliament-votes-in-first-female-speaker",
+          "title": "Kiribati parliament votes in first female speaker",
+          "date": "22 May 2020",
+          "access-date": "30 November 2021",
+          "website": "RNZ",
           "template": "citation",
           "type": "web"
         }
