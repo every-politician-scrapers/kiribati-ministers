@@ -203,40 +203,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Cabinet",
-          "url": "http://www.president.gov.ki/cabinet/",
-          "website": "Republic of Kiribati Presidential Web Portal",
-          "access-date": "8 August 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "New Kiribati cabinet ministers sworn in",
-          "url": "http://www.radionz.co.nz/international/pacific-news/299098/new-kiribati-cabinet-ministers-sworn-in",
-          "website": "Radio New Zealand",
-          "access-date": "9 August 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "author": "Howard Van Trease",
-          "title": "Atoll Politics: The Republic of Kiribati",
-          "url": "https://books.google.com/books?id=7rg-swcHq9QC&pg=PA377",
-          "year": "1993",
-          "isbn": "978-0-9583300-0-8",
-          "pages": "377–",
-          "template": "citation",
-          "type": "book"
-        }
       ]
     }
   ]
