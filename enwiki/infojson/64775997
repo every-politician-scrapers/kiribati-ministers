@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Assembly (Kiribati)"
+      ],
+      "stated_as": "Member of the House of Assembly"
+    },
+    "P580": "2019-03",
+    "P1365": {
+      "links": [
+        "Matiota Kairo"
+      ],
+      "stated_as": "Matiota Kairo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Information, Communications, Transport and Tourism Development"
+      ],
+      "stated_as": "Ministry of Information, Communications, Transport and Tourism Development"
+    },
+    "P580": "2020-07-11",
+    "P1365": {
+      "links": [
+        "Willie Tokataake"
+      ],
+      "stated_as": "Willie Tokataake"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Assembly (Kiribati)"
+      ],
+      "stated_as": "Member of the House of Assembly"
+    },
+    "P580": "1994",
+    "P1365": {
+      "links": [
+        "Baitongo Taburimai"
+      ],
+      "stated_as": "Baitongo Taburimai"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Information, Communications, Transport and Tourism Development"
+      ],
+      "stated_as": "Ministry of Information, Communications, Transport and Tourism Development"
+    },
+    "P580": "2016",
+    "P1365": {
+      "links": [
+        "Rimeta Beniamina"
+      ],
+      "stated_as": "Rimeta Beniamina"
+    },
+    "P582": "2020-07-11",
+    "P1366": {
+      "links": [
+        "Tekeeua Tarati"
+      ],
+      "stated_as": "Tekeeua Tarati"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Infrastructure and Sustainable Energy"
+      ],
+      "stated_as": "Ministry of Infrastructure and Sustainable Energy"
+    },
+    "P580": "2020-07-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ruateki Tekaiara"
+    }
+  }
+]
