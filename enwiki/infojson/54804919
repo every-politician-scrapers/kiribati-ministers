@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Assembly (Kiribati)"
+      ],
+      "stated_as": "Member of the House of Assembly"
+    },
+    "P580": "2016-01-07"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance and Economic Development (Kiribati)"
+      ],
+      "stated_as": "Minister for Finance & Economic Development"
+    },
+    "P580": "2016-03-15",
+    "P1365": {
+      "links": [
+        "Tom Murdoch"
+      ],
+      "stated_as": "Tom Murdoch"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Kiribati"
+      ],
+      "stated_as": "7th Vice President of Kiribati"
+    },
+    "P580": "2019-06-19",
+    "P1365": {
+      "links": [
+        "Kourabi Nenem"
+      ],
+      "stated_as": "Kourabi Nenem"
+    }
+  }
+]

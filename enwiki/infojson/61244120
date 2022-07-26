@@ -1,0 +1,58 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Assembly (Kiribati)",
+        "Betio"
+      ],
+      "stated_as": "Member\nof the House of Assembly from Betio"
+    },
+    "P580": "2008",
+    "P582": "2020-04-21",
+    "P1366": {
+      "links": [
+        "Tebao Awerika"
+      ],
+      "stated_as": "Tebao Awerika"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of Kiribati",
+        "Ministry of Women, Youth, Sports and Social Affairs"
+      ],
+      "stated_as": "Minister of Women, Youth, Sports and Social Affairs"
+    },
+    "P580": "2013-10-15",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2016-03-11",
+    "P1366": {
+      "links": [
+        "David Collins (politician)"
+      ],
+      "stated_as": "David Collins"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the House of Assembly (Kiribati)",
+        "House of Assembly (Kiribati)"
+      ],
+      "stated_as": "Speaker\nof the House of Assembly"
+    },
+    "P580": "2020-05-22",
+    "P1365": {
+      "links": [
+        "Tebuai Uaai"
+      ],
+      "stated_as": "Tebuai Uaai"
+    }
+  }
+]
